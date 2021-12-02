@@ -17,8 +17,8 @@ import javax.mail.internet.MimeMultipart;
 public class MailService {
 	
 	public Session Authentication() {
-		final String username = "jenn18cs030@rmkcet.ac.in";
-		final String password = "Arrp0417#";
+		final String username = "mymailid";
+		final String password = "mypassword";
 		
 		String host = "smtp.gmail.com";
 	    Properties props = System.getProperties();
